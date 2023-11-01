@@ -1,1 +1,1 @@
-# CSE438
+# CSE438: Smartphone Application Development
